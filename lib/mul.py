@@ -1,1 +1,1 @@
-Emul module
+mul(a,b):return a*b
